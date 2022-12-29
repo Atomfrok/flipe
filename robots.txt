@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://flipe.my.id/sitemap.xml
+Sitemap: http://www.flipe.my.id/sitemap.xml
+Sitemap: https://flipe.my.id/sitemap.xml
+Sitemap: https://www.flipe.my.id/sitemap.xml
+Sitemap: https://flipe.my.id/sitemap-pages.xml
+Sitemap: https://flipe.my.id/rss.xml
+Sitemap: https://flipe.my.id/atom.xml
