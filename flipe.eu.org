@@ -1,0 +1,1701 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB">
+<head><script async="async" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967291458224074"></script>
+<meta content="iE0j4yUYOMy7DTcjBYXFoACt-O4DlvQCcw6gQsnYFpo" name="google-site-verification" /><meta content="width=device-width, initial-scale=1" name="viewport" />
+<script>/*<![CDATA[*/function rmurl(e,t){var r=new RegExp(/\?m=0|&m=0|\?m=1|&m=1/g);return r.test(e)&&(e=e.replace(r,""),t&&window.history.replaceState({},document.title,e)),e}const currentUrl=rmurl(location.toString(),!0);null!==localStorage&&"dark"==localStorage.getItem("theme")&&(document.querySelector("html").className="dark-mode");/*]]>*/</script>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta content="width=device-width,initial-scale=1" name="viewport" />
+
+<link href="https://www.flipe.eu.org/" rel="canonical" />
+<meta content="http://www.flipe.eu.org/" property="og:url" />
+<meta content="Flipe Team" name="author" />
+<meta content="Flipe" name="application-name" />
+<meta content="general" name="rating" />
+
+<link href="https://www.flipe.eu.org/favicon.ico" rel="icon" type="image/x-icon" />
+
+<meta content="#ffffff" name="theme-color" />
+<meta content="#ffffff" name="msapplication-TileColor" />
+<meta content="#ffffff" name="msapplication-navbutton-color" />
+<meta content="#ffffff" name="apple-mobile-web-app-status-bar-style" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+
+<title>Flipe</title>
+<meta content="Flipe" name="title" />
+<meta content="Flipe" property="og:title" />
+<meta content="Flipe" name="twitter:title" />
+
+<meta content property="og:image" />
+<meta content name="twitter:image" />
+
+<meta content name="description" />
+<meta content property="og:description" />
+<meta content name="twitter:description" />
+
+<meta content property="fb:app_id" />
+<meta content property="article:author" />
+<meta content="website" property="og:type" />
+<meta content="en-GB" property="og:locale" />
+<meta content="Flipe" property="og:site_name" />
+<meta content="http://www.flipe.eu.org/" property="og:url" />
+<meta content="Flipe" property="og:image:alt" />
+
+<meta content name="twitter:site" />
+<meta content name="twitter:creator" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="http://www.flipe.eu.org/" name="twitter:url" />
+<meta content="Flipe" name="twitter:image:alt" />
+
+<link rel="alternate" type="application/atom+xml" title="Flipe - Atom" href="https://www.flipe.eu.org/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Flipe - RSS" href="https://www.flipe.eu.org/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Flipe - Atom" href="https://www.blogger.com/feeds/5150703973828246850/posts/default" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"http://www.flipe.eu.org/","name":"Flipe","potentialAction":{"@type":"SearchAction","target":"http://www.flipe.eu.org/search?q={search_term_string}&max-results=10","query-input":"required name=search_term_string"}}</script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" media="print" onload="if(media!=&quot;all&quot;)media=&quot;all&quot;" rel="stylesheet" /><noscript><link href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css' rel='stylesheet'/></noscript>
+<style id="page-skin-1" type="text/css"><!--
+/*
+-----------------------------------------------
+JetTheme Blogger Template
+Name		: JetTheme Core
+Version		: 2.9
+Designer	: jettheme
+URL			: www.jettheme.com
+-----------------------------------------------
+*/
+:root {
+--bs-font-sans-serif: system-ui,-apple-system,Segoe UI,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+--bs-body-bg: #ffffff;
+--bs-body-color: #686868;
+--jt-primary: #f67938;
+--jt-heading-color: #000000;
+--jt-heading-link: #000000;
+--jt-heading-hover: #f67938;
+--jt-link-color: #f67938;
+--jt-link-hover: #f46013;
+--jt-blockquote: #f67938;
+--jt-btn-primary: #f67938;
+--jt-btn-primary-hover: #f46013;
+--jt-btn-light-hover: #000000;
+--jt-border-light: #efefef;
+--jt-bg-light: #f3f7f9;
+--jt-archive-bg: #ffffff;
+--jt-nav-color: #686868;
+--jt-nav-hover: #f67938;
+--jt-nav-selected: #f67938;
+--jt-dropdown-bg: #ffffff;
+--jt-dropdown-color: #686868;
+--jt-dropdown-hover: #f67938;
+--jt-dropdown-selected: #f67938;
+--jt-header-bg: #ffffff;
+--jt-header-color: #686868;
+--jt-header-border: #efefef;
+--jt-footer-bg: #212529;
+--jt-footer-color: #9fa6ad;
+--jt-footer-link: #9fa6ad;
+--jt-footer-border: #323539;
+--jt-socket-bg: #09080c;
+--jt-socket-color: #9fa6ad;
+}
+.dark-mode {
+--bs-body-bg: hsl(210, 11%, 15%);
+--bs-body-color: hsl(210, 11%, 80%);
+--jt-heading-color: hsl(210, 11%, 80%);
+--jt-heading-link: hsl(210, 11%, 80%);
+--jt-btn-light-hover: hsl(210, 11%, 85%);
+--jt-border-light: hsl(210, 11%, 20%);
+--jt-bg-light: hsl(210, 11%, 20%);
+--jt-archive-bg: hsl(210, 11%, 17%);
+--jt-nav-color: hsl(210, 11%, 70%);
+--jt-dropdown-bg: hsl(210, 11%, 18%);
+--jt-dropdown-color: hsl(210, 11%, 70%);
+--jt-header-bg: hsl(210, 11%, 15%);
+--jt-header-color: hsl(210, 11%, 80%);
+--jt-header-border: hsl(210, 11%, 20%);
+--jt-footer-bg: hsl(210, 11%, 15%);
+--jt-footer-color: hsl(210, 11%, 80%);
+--jt-footer-border: hsl(210, 11%, 20%);
+--jt-socket-bg: hsl(210, 11%, 17%);
+--jt-socket-color: hsl(210, 11%, 80%);
+}
+body {
+font: normal normal 16px system-ui,-apple-system,Segoe UI,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+color: var(--bs-body-color);
+background-color: var(--bs-body-bg);
+line-height: 1.5;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+text-rendering: optimizeLegibility;
+}
+.d-block {
+display:none;
+}
+.h1,.h2,.h3,.h4,.h5,.h6,
+h1,h2,h3,h4,h5,h6 {
+font: normal bold 40px var(--bs-font-sans-serif);
+}
+a {
+transition-property: background-color, border-color, color, fill, stroke;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: .3s;
+text-decoration: none;
+color: var(--jt-link-color);
+}
+a:hover {
+color: var(--jt-link-hover);
+}
+.fs-7 {
+font-size: 0.875rem;
+}
+.fs-8 {
+font-size: 0.75rem;
+}
+.fs-9 {
+font-size: 0.7rem;
+}
+.btn{
+box-shadow: none !important
+}
+.btn-sm {
+min-width: 32px;
+min-height: 32px;
+}
+img,
+svg,
+iframe {
+max-width:100%
+}
+img {
+height:auto;
+object-fit:cover;
+}
+label {
+cursor: pointer;
+}
+.visually-hidden {
+position: unset !important;
+}
+.form-control:focus {
+box-shadow: none;
+border-color: var(--jt-primary);
+}
+.form-control::placeholder {
+opacity: .5;
+}
+.dropdown-toggle::after {
+border-width: 0.25em 0.25em 0;
+}
+.dropdown-menu {
+margin: 0;
+padding: 0;
+}
+.px-3 {
+padding-right: 1rem;
+padding-left: 1rem;
+}
+.ratio:before{
+content: none;
+}
+.ratio-1x1 {
+padding-bottom: 100%;
+}
+.ratio-4x3 {
+padding-bottom: 75%;
+}
+.ratio-16x9 {
+padding-bottom: 56.25%;
+}
+.ratio-21x9 {
+padding-bottom: 43%;
+}
+.object-cover {
+object-fit: cover;
+}
+.jt-text-primary,
+.hover-text-primary:hover,
+input:checked ~ .check-text-primary {
+color: var(--jt-primary)!important
+}
+.jt-btn-primary,
+.jt-btn-outline-primary:hover {
+color: #fff;
+background-color: var(--jt-btn-primary);
+border-color: var(--jt-btn-primary);
+}
+.jt-btn-light {
+color: var(--bs-body-color);
+background-color: var(--jt-bg-light);
+border-color: var(--jt-bg-light);
+}
+.jt-btn-light:hover {
+color: var(--jt-btn-light-hover);
+}
+.jt-btn-primary:hover,
+.hover-btn-primary:hover,
+input:checked + .jt-btn-outline-primary {
+color: #fff !important;
+background-color: var(--jt-btn-primary-hover)!important;
+border-color: var(--jt-btn-primary-hover)!important
+}
+.jt-btn-outline-primary {
+color: var(--jt-btn-primary);
+border-color: var(--jt-btn-primary);
+}
+.jt-bg-primary {
+background-color: var(--jt-primary)
+}
+.jt-bg-light {
+background-color: var(--jt-bg-light)
+}
+.bg-archive {
+background-color: var(--jt-archive-bg)
+}
+.jt-border-light {
+border-color: var(--jt-border-light)!important;
+}
+input:checked ~ .d-block-check {
+display: block !important;
+}
+input:checked ~ .d-none-check {
+display: none !important;
+}
+.dropdown-menu,
+.accordion-item,
+.accordion-header {
+background-color: var(--bs-body-bg);
+color: var(--bs-body-color);
+border-color: var(--jt-border-light);
+}
+.lazyload {
+transition-property: opacity;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: .3s;
+opacity: 0;
+}
+.lazyload.loaded {
+opacity: 1;
+}
+/* JetTheme Style */
+pre {
+background-color: var(--jt-bg-light);
+margin-bottom: 1rem;
+padding: 1rem;
+font-size: 0.75rem;
+}
+blockquote {
+border-left:  5px solid var(--jt-blockquote);
+color: inherit;
+font-size: 1.125rem;
+margin-bottom: 1.5rem;
+margin-top: 1.5rem;
+padding-left: 1rem;
+}
+.header-animate.header-hidden {
+transform: translateY(-100%);
+box-shadow: none !important;
+}
+#header {
+background-color: var(--jt-header-bg);
+color: var(--jt-header-color);
+transition-property: transform;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: .3s;
+min-height: 50px;
+border-bottom: 1px solid var(--jt-header-border);
+}
+.header-social {
+border-right: 1px solid var(--jt-header-border);
+}
+.jt-icon {
+display: inline-block;
+height: 1em;
+vertical-align: -0.15em;
+width: 1em;
+fill:none;
+stroke:currentColor;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-width:2;
+}
+.jt-icon-center {
+font-family: sans-serif;
+}
+.icon-dark,
+.dark-mode .icon-light {
+display: none;
+}
+.dark-mode .icon-dark {
+display: block;
+}
+#dark-toggler,
+#search-toggler,
+#navbar-toggler {
+line-height: 1;
+}
+#dark-toggler {
+font-size: 17px;
+}
+#footer {
+background-color: var(--jt-footer-bg);
+color: var(--jt-footer-color);
+border-top: 1px solid var(--jt-footer-border);
+}
+#socket {
+background-color: var(--jt-socket-bg);
+color: var(--jt-socket-color);
+}
+#navbar {
+z-index: 9999;
+}
+#navbar .menu-item {
+position: relative;
+}
+#navbar .nav-link {
+min-height: 40px;
+}
+#navbar .dropdown-toggle {
+cursor: pointer;
+align-items: center;
+display: flex;
+}
+#navbar.d-block,
+#navbar .dropdown-menu,
+#navbar .nav-link,
+#navbar .dropdown-toggle {
+-webkit-transition: .3s;
+-ms-transition: .3s;
+-o-transition: .3s;
+transition: .3s;
+}
+#navbar .navbar-nav > .menu-item > .nav-link {
+font: normal bold 16px var(--bs-font-sans-serif);
+line-height: 1.5;
+color: var(--jt-nav-color);
+}
+#navbar .navbar-nav > .menu-item:hover > .nav-link,
+#navbar .navbar-nav > .menu-item:hover > .dropdown-toggle {
+color: var(--jt-nav-hover);
+}
+#navbar .navbar-nav > .menu-item > .nav-link.active,
+#navbar .navbar-nav > .menu-item > .active ~ .dropdown-toggle {
+color: var(--jt-nav-selected);
+}
+.logo-wrap {
+width: 200px;
+}
+#search-header .dropdown-menu {
+background-color:var(--jt-dropdown-bg);
+color: var(--jt-dropdown-color);
+border-color: var(--jt-header-border);
+min-width: 300px;
+right:0;
+top:100%
+}
+.blog-admin {
+display: none;
+}
+#pagination li + li {
+margin-left: 5px;
+}
+.no-items {
+display: none;
+}
+.feature-image,
+.separator,
+.tr-caption-container {
+margin-bottom: 1rem;
+}
+.tr-caption-container {
+width: 100%;
+}
+.separator a,
+.tr-caption-container a {
+margin: 0 !important;
+padding: 0 !important;
+}
+.tr-caption {
+font-size: 12px;
+font-style: italic;
+}
+.widget:last-child {
+margin-bottom: 0 !important;
+}
+#post-body .widget {
+margin-top: 1.5rem;
+}
+.item-title {
+color: var(--jt-heading-link);
+}
+.item-title:hover {
+color: var(--jt-heading-hover);
+}
+#comment-editor{
+width:100%
+}
+#primary .widget-title {
+font-weight: 300;
+text-transform: uppercase;
+}
+#footer .widget-title {
+text-transform: uppercase;
+}
+#footer .widget-title,
+#sidebar .widget-title {
+font-size: 13px !important;
+}
+#footer .widget-title:after {
+content: "";
+display: block;
+width: 50px;
+border-bottom: 2px solid var(--jt-primary);
+margin-top: 10px;
+}
+#primary .widget-title > span {
+background-color: var(--bs-body-bg);
+padding-right: 5px;
+position: relative;
+}
+#main .widget-title:before,
+#sidebar .widget-title:before {
+background-color:  var(--jt-bg-light);
+content: "";
+height: 1px;
+display: block;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 100%;
+}
+#main .widget-title:before {
+border-right: 30px solid var(--jt-primary);
+height: 5px;
+}
+.send-success:not(.loading) .contact-form-msg,
+.send-error:not(.loading) .contact-form-msg {
+display:block !important;
+}
+.send-success .contact-form-msg{
+border-color: rgba(25,135,84,.3) !important;
+}
+.send-error .contact-form-msg{
+border-color: rgba(255,193,7,.3) !important;
+}
+.send-success .contact-form-msg:before{
+content: attr(data-success);
+}
+.send-error .contact-form-msg:before{
+content: attr(data-error);
+}
+hr.example-ads:before {
+content: "Advertisement here";
+}
+hr.example-ads {
+background-color: var(--jt-bg-light);
+border-radius: 0.25rem;
+font-size: 0.875rem;
+height: auto;
+margin: 0;
+opacity: 1;
+padding: 1.5rem 0;
+text-align: center;
+}
+body > .google-auto-placed {
+margin: 0 auto 1.5rem;
+max-width: 1108px;
+}
+.google-auto-placed > ins {
+margin: 0 !important;
+}
+/* TYPOGRAPY */
+.h1,h1{font-size:calc(1.375rem + 1.5vw)}
+.h2,h2{font-size:calc(1.325rem + .9vw)}
+.h3,h3{font-size:calc(1.3rem + .6vw)}
+.h4,h4{font-size:calc(1.275rem + .3vw)}
+.h5,h5{font-size:18px}
+.h6,h6{font-size:16px}
+.entry-title {
+color: var(--jt-heading-color);
+}
+.entry-text h1,
+.entry-text h2,
+.entry-text h3,
+.entry-text h4,
+.entry-text h5,
+.entry-text h6 {
+color: var(--jt-heading-color);
+padding-top: 1em;
+margin-bottom: 1rem;
+}
+.entry-text li {
+margin-bottom: 0.5rem;
+}
+/* Responsive Style */
+@media (min-width: 576px) {
+.ratio-sm-4x3 {
+padding-bottom: 75%;
+}
+.ratio-sm-16x9 {
+padding-bottom: 56.25%;
+}
+.border-sm-end {
+border-right-width: 1px !important;
+border-right-style: solid;
+}
+#post-pager .next-page {
+border-left: 1px solid;
+}
+}
+@media (min-width: 768px) {
+.position-md-relative {
+position: relative;
+}
+.border-md-end {
+border-right-width: 1px !important;
+border-right-style: solid;
+}
+}
+@media (min-width: 992px) {
+.d-lg-flex {
+display: flex;
+}
+.col-lg-4 {
+flex: 0 0 auto;
+width: 33.33333333%;
+}
+.col-lg-8 {
+flex: 0 0 auto;
+width: 66.66666667%;
+}
+.border-lg-end {
+border-right-width: 1px !important;
+border-right-style: solid;
+}
+#navbar .navbar-nav > .menu-item {
+display: flex;
+}
+#navbar .dropdown-menu {
+background-color:var(--jt-dropdown-bg);
+border-color: var(--jt-header-border);
+margin-top: -10px;
+display: block;
+opacity: 0;
+visibility: hidden;
+pointer-events: none;
+box-shadow: 5px 10px 10px -5px rgba(0, 0, 0, 0.14);
+top:100%;
+min-width: 150px;
+}
+#navbar .dropdown-menu .nav-link {
+padding-right: 20px;
+font-size: 15px;
+color: var(--jt-dropdown-color);
+}
+#navbar .dropdown-menu .dropdown-toggle {
+position: absolute;
+right: 10px;
+top: 20px;
+}
+#navbar .dropdown-menu .dropdown-menu {
+left: 100%;
+top: -1px;
+}
+#navbar .dropdown-menu .menu-item:hover > .nav-link,
+#navbar .dropdown-menu .menu-item:hover > .dropdown-toggle {
+color:  var(--jt-dropdown-hover);
+}
+#navbar .dropdown-menu .menu-item > .nav-link.active,
+#navbar .dropdown-menu .menu-item > .active ~ .dropdown-toggle {
+color:  var(--jt-dropdown-selected);
+}
+#navbar .menu-item:hover > .dropdown-menu {
+opacity: 1;
+visibility: visible;
+pointer-events: unset;
+margin: 0;
+}
+#navbar .navbar-nav > .menu-item > .nav-link {
+padding: 1.5rem 1.2rem;
+white-space:nowrap;
+}
+#navbar .navbar-nav > .menu-item > .dropdown-toggle {
+bottom: 0;
+pointer-events: none;
+position: absolute;
+right: 5px;
+top: 3px;
+}
+#sidebar {
+border-left: 1px solid var(--jt-border-light);
+}
+#footer-widget .widget {
+margin-bottom: 0 !important;
+}
+}
+@media (min-width: 1200px){
+.container {
+max-width: 1140px;
+}
+.h1,h1{font-size:40px}
+.h2,h2{font-size:26px}
+.h3,h3{font-size:22px}
+.h4,h4{font-size:20px}
+}
+@media (min-width: 1400px) {
+.container {
+max-width: 1320px;
+}
+}
+@media (max-width: 991.98px) {
+input:checked ~ .dropdown-menu {
+display: block;
+}
+input:checked + .dropdown-toggle {
+color: var(--jt-dropdown-selected);
+}
+.logo-wrap {
+width: 150px;
+}
+#search-header .dropdown-menu{
+width: 100%;
+}
+#navbar {
+background-color: var(--jt-header-bg);
+padding-top: 70px;
+padding-bottom: 30px;
+position: fixed;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
+width: auto;
+}
+#navbar.d-block {
+opacity: 0;
+transform: translateX(-20%);
+}
+#navbar.show {
+transform: translateX(0);
+opacity: 1;
+}
+#navbar .navbar-nav {
+max-height: 100%;
+overflow-y: auto;
+}
+#navbar-toggle:checked ~ #header-main #navbar {
+display:block;
+}
+#navbar .nav-link {
+border-bottom: 1px solid var(--jt-header-border);
+font-size: 16px !important;
+color: var(--jt-dropdown-color);
+}
+#navbar .menu-item:hover > .nav-link {
+color: var(--jt-dropdown-hover);
+}
+#navbar .active > .nav-link {
+color: var(--jt-dropdown-selected);
+}
+#navbar .dropdown-toggle {
+border-left: 1px solid var(--jt-header-border);
+height: 2.5rem;
+padding: 0 1rem;
+position: absolute;
+right: 0;
+top: 0;
+}
+#navbar .dropdown-menu {
+background-color: var(--jt-dropdown-bg);
+border: none;
+padding-left: 10px;
+}
+#sidebar {
+border-top: 1px solid var(--jt-border-light);
+}
+}
+@media (max-width: 575.98px) {
+.feature-posts .item-thumbnail {
+margin-bottom: -150px;
+}
+.feature-posts .item-thumbnail a {
+border-radius: 0 !important;
+box-shadow: none !important;
+padding-bottom: 75%;
+}
+.feature-posts .item-content {
+background-color: var(--bs-body-bg);
+border: 5px solid;
+border-radius: 0.25rem;
+}
+#post-pager .prev-page + .next-page {
+border-top: 1px solid;
+}
+.full-width,
+.px-3 .google-auto-placed {
+margin-left: -1rem;
+margin-right: -1rem;
+width: auto !important;
+}
+#footer-widget .widget {
+padding-left: 3rem;
+padding-right: 3rem;
+}
+}
+/*Your custom CSS is here*/
+
+--></style>
+
+</head><body class="d-block is-home"><textarea disabled readonly id="element-h" style="display:none"><style>/*<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967291458224074&host=ca-host-pub-1556223355139109" crossorigin="anonymous"></script>
+
+<!-- data-ad-client=ca-pub-2967291458224074 -->
+
+</head><body>*/</style></textarea>
+<header class="header-animate sticky-top navbar py-0 navbar-expand-lg" content="itemid" id="header" itemid="#header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<input class="d-none" id="navbar-toggle" type="checkbox" />
+<div class="container position-relative px-3 flex-nowrap section" id="header-main"><div class="widget HTML logo-wrap position-relative" data-version="2" id="HTML10">
+<a class="d-block navbar-brand" href="https://www.flipe.eu.org/">
+<img alt="Flipe" height="55" loading="lazy" src="https://i.postimg.cc/wMkQVGvw/Logo-Maker-com-ist-logomaker-Thu-Mar-30-21-25-01-GMT-07-00-2023-1680186301780.png" width="175" />
+</a>
+</div>
+<div class="widget LinkList collapse navbar-collapse" data-version="2" id="navbar">
+<label class="d-flex position-absolute fs-1 d-lg-none mt-4 me-4 top-0 end-0" for="navbar-toggle"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-close"></use></svg></label>
+<ul class="navbar-nav px-4 p-lg-0 container" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="menu">
+<li class="menu-item"><a class="nav-link" href="https://www.flipe.eu.org" itemprop="url" role="menuitem">
+<span itemprop="name">Home</span></a></li></ul>
+</div></div>
+</header>
+
+<div id="primary">
+<div class="container px-0">
+<div class="d-lg-flex" id="main-content">
+<div class="col-lg-8 px-3" id="main">
+<h1 class="d-none">Homepage Flipe</h1>
+<div class="pt-4 section" id="before-blog">
+<div class="widget FeaturedPost position-relative mb-4" data-version="2" id="FeaturedPost1">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>Featured Post</span></h2>
+<div class="widget-content feature-posts">
+<div class="item-post d-sm-flex">
+<div class="item-thumbnail full-width pe-sm-3 col-sm-6">
+<a class="d-block jt-bg-light overflow-hidden rounded shadow-sm ratio ratio-1x1" href="https://www.flipe.eu.org/2023/01/a47.html" rel="bookmark">
+<img alt="Scalping Strategy For Traders Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4umd9M-CnYN373N4HuMeRPNVBeIL_zLX9ZnxQm7_p7nsBkebJCQIyB6Xk61j8JlrEAShPGX0YGuCnCc6dD7PdjrZPvaxjr0Fgu9Zc93Q1PVcJULjHKajE6ewsoQ9IGU0mWVk-xSbsWBG2okuUTT6lJSxFHzb5EmAyQ2INk1U5ssBxcXJUZB8biAFVJQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Apr_30_05_40_00_GMT_07_00_2023_1682808000749.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4 py-sm-0 position-relative jt-border-light col-sm-6">
+<div class="item-tag mb-3 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title mb-4 fs-2"><a class="text-reset" href="https://www.flipe.eu.org/2023/01/a47.html">Scalping Strategy For Traders Flipe</a></h3>
+<p class="item-snippet text-break mb-3">Scalping Strategy For Traders&#160;Flipe What is Scalping? Flipe - In trading, the stock scalping technique that traders use is buying lots of st...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-07-07T16:12:00+07:00">7 Jul, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/8057028366623853265" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</div>
+</div></div>
+<div class="pt-4 pb-5 section" id="blog-post"><div class="widget Blog" data-version="2" id="Blog1">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>Latest Posts</span></h2>
+<div class="widget-content">
+<div class="row row-cols-sm-2" id="blog-content">
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2023/01/a47.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "Scalping Strategy For Traders Flipe",
+  "description": "Scalping Strategy For Traders&#160;Flipe What is Scalping? Flipe - In trading, the stock scalping technique that traders use is buying lots of stocks and selling them as soon as price gaps become visible Scalping is a strategy chosen by many traders who want to make quick profits. Even though it is similar to day trading, scalping tends to have a larger capital. In addition, day trading is usually done by traders every day. In contrast to scalping (scalping practitioners) who only trade in a very short time and are not done every day. Scalpers take advantage of small movements of a certain object to make money. Scalping trading can be a very profitable method if a trader is able to apply the right exit strategy. However, there are also downsides to using scalping as a trading strategy. Scalping involves a large number of transactions compared to other strategies. Opening a large number of trading transactions will incur higher transaction costs because you will have to pay a commission for ",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4umd9M-CnYN373N4HuMeRPNVBeIL_zLX9ZnxQm7_p7nsBkebJCQIyB6Xk61j8JlrEAShPGX0YGuCnCc6dD7PdjrZPvaxjr0Fgu9Zc93Q1PVcJULjHKajE6ewsoQ9IGU0mWVk-xSbsWBG2okuUTT6lJSxFHzb5EmAyQ2INk1U5ssBxcXJUZB8biAFVJQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Apr_30_05_40_00_GMT_07_00_2023_1682808000749.jpg",
+  "datePublished": "2023-07-07T16:12:00+07:00",
+  "dateModified": "2023-07-12T05:41:49+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2023/01/a47.html" rel="bookmark">
+<img alt="Scalping Strategy For Traders Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4umd9M-CnYN373N4HuMeRPNVBeIL_zLX9ZnxQm7_p7nsBkebJCQIyB6Xk61j8JlrEAShPGX0YGuCnCc6dD7PdjrZPvaxjr0Fgu9Zc93Q1PVcJULjHKajE6ewsoQ9IGU0mWVk-xSbsWBG2okuUTT6lJSxFHzb5EmAyQ2INk1U5ssBxcXJUZB8biAFVJQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Apr_30_05_40_00_GMT_07_00_2023_1682808000749.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2023/01/a47.html">Scalping Strategy For Traders Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">Scalping Strategy For Traders&#160;Flipe What is Scalping? Flipe - In trading, the stock scalping technique that traders use is buying lots of st...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-07-07T16:12:00+07:00">7 Jul, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/8057028366623853265" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2023/01/a50.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "Here's How to Solve the Problem Effectively Flipe",
+  "description": "Here\u0026#39;s How to Solve the Problem Effectively&#160;Flipe How to solve problems for each person may be different. However, there are several ways that you can apply and adapt to your needs, for example by developing flexibility, resilience, to creativity and resourcefulness. Want to know more about these methods, see in the following article, ok! By flipe.eu.org Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful \u0026amp;amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates. Flipe - Every day and everyone will be faced with a problem, whether it\u0026#39;s light or heavy. Even though dodging or running is often the fastest way, solving problems in an effective way is still a wiser choice. Apart from making you calmer after the problem is finally solved, during the process, there will be a lot of new learning that you can get and apply if you are again faced with the same or similar problem in the future. Various Ways to Solve Problems So,",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTk-Um0quvNUbfVnwsLRW7hafzD_GMnMgN8iVSw9oDfGcFWbyj0mh0hCuS3_rlTK5TvLKziCKf-QmbbvY5B2GcBf1ckUNsAZoloU-gnCNRlEmLzmVg05qlpOpKfOvErykHPBTeQT0N8W0K4YTPqyYUSjyrpjtw2ExAH8_yRh2FcRVdcMc24pvkoxv1w/w320-h320/Logo_Maker_com.ist.logomaker_Fri_Apr_28_06_01_53_GMT_07_00_2023_1682636513543.jpg",
+  "datePublished": "2023-06-25T21:29:00+07:00",
+  "dateModified": "2023-07-12T05:42:03+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2023/01/a50.html" rel="bookmark">
+<img alt="Here&#39;s How to Solve the Problem Effectively Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTk-Um0quvNUbfVnwsLRW7hafzD_GMnMgN8iVSw9oDfGcFWbyj0mh0hCuS3_rlTK5TvLKziCKf-QmbbvY5B2GcBf1ckUNsAZoloU-gnCNRlEmLzmVg05qlpOpKfOvErykHPBTeQT0N8W0K4YTPqyYUSjyrpjtw2ExAH8_yRh2FcRVdcMc24pvkoxv1w/w320-h320/Logo_Maker_com.ist.logomaker_Fri_Apr_28_06_01_53_GMT_07_00_2023_1682636513543.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/HEALTHY?max-results=10" rel="tag">
+HEALTHY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2023/01/a50.html">Here's How to Solve the Problem Effectively Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">Here&#39;s How to Solve the Problem Effectively&#160;Flipe How to solve problems for each person may be different. However, there are several way...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-25T21:29:00+07:00">25 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/727377412746441073" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a1.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "How to check the tiktok affiliate commission",
+  "description": "How to check the tiktok affiliate commission by flipe.eu.org How to check the  Tiktok Affiliate Commission - who just joined the Tiktok  Affiliate program , there is much to learn. Starting from how to choose a product that must be marketed up to withdrawing the Tiktok Affiliate Commission. To get the maximum commission from Tiktok Affiliate, you have to learn a lot either by finding information through Google, Youtube or in Tiktok Affiliate Online Classes. The online class of Tiktok Affiliate itself is recommended  by many mentors who want to get the maximum income in a not too long time. Because the class will be explained in detail without having to trial the error itself. How to check the tiktok affiliate commission For those who don\u0026#39;t know, Tiktok Affiliate is a program held by Tiktok to market or promote the parcels contained in Tiktkok Shop. To join Tiktok Affiliate itself is not too difficult. You can register through the following link https://seller-id.tiktok.com/. If you",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxodESziNkXJpjM1lPuIhzLoAZ3b6EtMNXRcw_7FGrU6l8ndTuWlNaRgnDhF1lCkDMTlCdokXaQK6MXnJJu52xM5tYv1qegcj4eb0-JkAh0eivKf9j6B_GkzYTB1Pi6CKtfpW7ft2Wui_ILqOqDzYi6XUp_fdtZizTX4SBr54qGAy3Gl6hMfNPV9J40w/w320-h240/Untitled-1.jpg",
+  "datePublished": "2023-06-12T09:45:00+07:00",
+  "dateModified": "2023-07-12T05:42:19+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a1.html" rel="bookmark">
+<img alt="How to check the tiktok affiliate commission" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxodESziNkXJpjM1lPuIhzLoAZ3b6EtMNXRcw_7FGrU6l8ndTuWlNaRgnDhF1lCkDMTlCdokXaQK6MXnJJu52xM5tYv1qegcj4eb0-JkAh0eivKf9j6B_GkzYTB1Pi6CKtfpW7ft2Wui_ILqOqDzYi6XUp_fdtZizTX4SBr54qGAy3Gl6hMfNPV9J40w/w320-h240/Untitled-1.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/BANK?max-results=10" rel="tag">
+BANK
+</a>
+,
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a1.html">How to check the tiktok affiliate commission</a>
+</h3>
+<p class="item-snippet text-break mb-3">How to check the tiktok affiliate commission by flipe.eu.org How to check the Tiktok Affiliate Commission - who just joined the Tiktok Aff...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-12T09:45:00+07:00">12 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/1000561046848476532" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a8.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "What is the difference between investment and investment? Flipe",
+  "description": "What is the difference between investment and investment?&#160;Flipe By flipe.eu.org Flipe - Investment is an activity to add assets that are carried out not only by investing in an instrument or business, but also by buying instruments, so it is not only related to business. Meanwhile, investment must always be related to business activities. Investment and investment  at first glance seem the same, but actually have a slightly different scope. Investment is one form of investment. Meanwhile investment has a broader meaning. The reason is because investment has the goal of gaining profit from the capital invested in a business , just like the goal of investment in general. Here\u0026#39;s a description of the two: 1. Investment Investment is a term that is familiar to the ear. Investment is an effort to invest capital or funds with the hope of getting a profit (return) in the future. Many examples of investments  include stocks, sukuk, deposits, savings, savings, insurance, and mutual funds. Ot",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS3FO6Iv-5BG3gJR__bjo2sg2NBU-AyTjxJJdU96TH28cB5I4C1uUR3ytOpcDPopGzFj2GxiNJV2wGnRMtkavoAVMaM2Edxe4NzgshOs5ukkWaaS-xL-Y1DgRZBCE-NB-j-Ww4yE65P3m6kEXruyFFEDkYDZY65YjZgb8zSHMrijl7jeQBZ-pvfQZtnQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_05_03_52_GMT_07_00_2023_1686434632779.png",
+  "datePublished": "2023-06-11T05:07:00+07:00",
+  "dateModified": "2023-07-12T05:42:38+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a8.html" rel="bookmark">
+<img alt="What is the difference between investment and investment? Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS3FO6Iv-5BG3gJR__bjo2sg2NBU-AyTjxJJdU96TH28cB5I4C1uUR3ytOpcDPopGzFj2GxiNJV2wGnRMtkavoAVMaM2Edxe4NzgshOs5ukkWaaS-xL-Y1DgRZBCE-NB-j-Ww4yE65P3m6kEXruyFFEDkYDZY65YjZgb8zSHMrijl7jeQBZ-pvfQZtnQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_05_03_52_GMT_07_00_2023_1686434632779.png" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a8.html">What is the difference between investment and investment? Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">What is the difference between investment and investment?&#160;Flipe By flipe.eu.org Flipe - Investment is an activity to add assets that are car...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-11T05:07:00+07:00">10 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/7330622893248173943" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a7.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "What is a Divestment and How Does It Effect Flipe",
+  "description": "What is a Divestment and How Does It Effect&#160;Flipe By flipe.eu.org What is Divestment? Flipe - Divestment is a reduction in the type of assets, both financial assets and goods assets owned by the company. Divestment is often referred to as the opposite of investment activities. When the investment aims to add to the assets owned by the company or individuals to get a bigger profit, divestments actually reduce the company\u0026#39;s assets. Therefore, divestment  is often connoted as a negative activity because it reduces assets, even though this activity may also be carried out to increase profits for the person/company. Divestment Method What are the methods for carrying out the asset disposal action? Here\u0026#39;s an explanation. Making Sales This method is usually done by processing cash transactions, although this is not always the case. One of the reasons corporations sell part of their wealth is to protect the company from losses due to unsuccessful acquisitions. Performing Spin-Offs The ",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKZurUWKoOl3H6qTJDtaLhP7VHIy_PlsHawTJP4xV7hPUwCMC-E8rx_KaekMDevegSN23klPEGZ75XMxP4PDeOFkoILCVm9ueDreQF3batksRbPWleezQNKRm6WXejHmYO-MtOVyf-VnQsAaX0xIiwYSzjTTWid2a_wYDw8iPLR52YhNDvVsPBCKxzw/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_04_56_51_GMT_07_00_2023_1686434211092.png",
+  "datePublished": "2023-06-11T05:00:00+07:00",
+  "dateModified": "2023-07-12T05:42:56+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a7.html" rel="bookmark">
+<img alt="What is a Divestment and How Does It Effect Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKZurUWKoOl3H6qTJDtaLhP7VHIy_PlsHawTJP4xV7hPUwCMC-E8rx_KaekMDevegSN23klPEGZ75XMxP4PDeOFkoILCVm9ueDreQF3batksRbPWleezQNKRm6WXejHmYO-MtOVyf-VnQsAaX0xIiwYSzjTTWid2a_wYDw8iPLR52YhNDvVsPBCKxzw/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_04_56_51_GMT_07_00_2023_1686434211092.png" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a7.html">What is a Divestment and How Does It Effect Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">What is a Divestment and How Does It Effect&#160;Flipe By flipe.eu.org What is Divestment? Flipe - Divestment is a reduction in the type of asset...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-11T05:00:00+07:00">10 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/293367667579714722" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a11.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "7 Advantages of the iPhone XR Flipe",
+  "description": "7 Advantages of the iPhone XR&#160;Flipe By flipe.eu.org Flipe - Currently, the iPhone has issued many series. iPhone XR is still worth buying and using this year. In addition to the price that has dropped, this affordable phone from Apple has sufficient features and is able to meet the needs of its users. One of the Apple smartphones released in 2018 that still exists today is the iPhone XR. The following are the advantages or advantages of the iPhone XR, which is the iPhone X series at the cheapest  price. 1. Fast Performance iPhone XR offers its users super performance and speed without worrying about lag. This is because the iPhone XR is equipped with the Apple A12 Bionic chipset with 7nm process technology . The iPhone XR CPU is also armed with a ten-core processor. Apart from that, this smart phone also uses an Apple GPU with four core graphics. 2. Long Battery Life One thing that makes this affordable Apple smartphone stand out more than its flagships is the battery life it has. In f",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpyAHCGNGZrJ9m-RtDHUN-uk4jYwH2xW3cfVGoBtN7I8lWTbj8xM_mFJnHgkPZ0I-mDHce_kTSMQZbk8jOeUJfTMPyrIj58XGmZ_w8-evsezsyOnnqS3FA6_S3VnwVvJW2pD9rk-NE1-7c8DlgAMQVFXZMCUiiO2BMmr3UNDD9YRB7JDMnLwEYWCVYbQ/w320-h240/1686433880579.jpg",
+  "datePublished": "2023-06-11T04:54:00+07:00",
+  "dateModified": "2023-07-12T05:43:12+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a11.html" rel="bookmark">
+<img alt="7 Advantages of the iPhone XR Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpyAHCGNGZrJ9m-RtDHUN-uk4jYwH2xW3cfVGoBtN7I8lWTbj8xM_mFJnHgkPZ0I-mDHce_kTSMQZbk8jOeUJfTMPyrIj58XGmZ_w8-evsezsyOnnqS3FA6_S3VnwVvJW2pD9rk-NE1-7c8DlgAMQVFXZMCUiiO2BMmr3UNDD9YRB7JDMnLwEYWCVYbQ/w320-h240/1686433880579.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a11.html">7 Advantages of the iPhone XR Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">7 Advantages of the iPhone XR&#160;Flipe By flipe.eu.org Flipe - Currently, the iPhone has issued many series. iPhone XR is still worth buying an...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-11T04:54:00+07:00">10 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/5333966517798672070" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2023/01/a44.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "Samsung Integrates NFT Market into Smart TV Flipe",
+  "description": "Samsung Integrates NFT Market into Smart TV&#160;Flipe by flipe.eu.oeg Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful \u0026amp;amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates. Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful \u0026amp;amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates. &#160; Flipe - Samsung is deepening its foray into the NFT space by making digital art more accessible through its new line of TVs. The South Korean technology conglomerate is enabling its customers to buy and sell non-fungible tokens via an integrated platform that will be available on select smart TVs, including Micro LED, Neo QLED, and The Frame, according to Monday\u0026#39;s announcement. NFT platform launch In 2022, Samsung introduced the world\u0026#39;s first NFT explorer and TV screen-based marketplace aggregator, an innovative platform that lets you browse, buy, and view your favorite wor",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1DsE1VrEyE9qKOrK37Mb609lXkSB1r-N9lssIlrud9-lCYMb3XGTZK8MfgkuzplwWeGK1W9FOGAesGOFS8udE73-bqzC4kQ-aY-OCqc1KZ3d06JqNQ1_zL4MbG6GwQFHpfZVTVmqkFDGFfvcT6GZ1Co_0uPTmfcV3isbGRdJE3I0PGlKJN_w5Xoi5vA/w320-h240/samsung.jpg",
+  "datePublished": "2023-06-10T15:43:00+07:00",
+  "dateModified": "2023-07-12T05:43:41+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2023/01/a44.html" rel="bookmark">
+<img alt="Samsung Integrates NFT Market into Smart TV Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1DsE1VrEyE9qKOrK37Mb609lXkSB1r-N9lssIlrud9-lCYMb3XGTZK8MfgkuzplwWeGK1W9FOGAesGOFS8udE73-bqzC4kQ-aY-OCqc1KZ3d06JqNQ1_zL4MbG6GwQFHpfZVTVmqkFDGFfvcT6GZ1Co_0uPTmfcV3isbGRdJE3I0PGlKJN_w5Xoi5vA/w320-h240/samsung.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2023/01/a44.html">Samsung Integrates NFT Market into Smart TV Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">Samsung Integrates NFT Market into Smart TV&#160;Flipe by flipe.eu.oeg Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful &amp;amp;...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-10T15:43:00+07:00">10 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/7608574037989253637" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2023/01/a45.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "How To Quickly Raise Levels In Mobile Legend Games That You Must Master !! Flipe",
+  "description": "How To Quickly Raise Levels In Mobile Legend Games That You Must Master !!&#160;Flipe by flipe.eu.org Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful \u0026amp;amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates. Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful \u0026amp;amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates. Flipe - Hi, this time Mimin will discuss one of the most popular games today, Mobile Legend. On this occasion Mimin will provide tips on effective ways to quickly level up the rank in this game. Flipe Game Mobile Legend Bang Bang (MLBB) achieved great success in Indonesia. In fact, the majority of active players, pro players, and global top various  MLBB heroes are in Indonesia. With that in mind, it\u0026#39;s no wonder that the international MLBB event, M1, will be held in Jakarta in 2020. Here are some tips: First of all, try to understand at a glance the",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwe4eFgs80sTACHgCcz4flRK8ucwocLprJvasEYOW0UUhIXsYCG8DhBhPr6pNi2mx5PPu_zjij08YGoXISuPrg-83guIfN_24SAsQ0rt-gmyxSTFZpGe1-1cj-qvoyNlevVI6l8vnWM4sBRjsKLCxEpIDIg0V0Ud-DoF_I3PxzxW4YtCZcoc-MXa3MdQ/w320-h240/ml%20edit.jpg",
+  "datePublished": "2023-06-10T15:43:00+07:00",
+  "dateModified": "2023-07-12T05:43:26+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2023/01/a45.html" rel="bookmark">
+<img alt="How To Quickly Raise Levels In Mobile Legend Games That You Must Master !! Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwe4eFgs80sTACHgCcz4flRK8ucwocLprJvasEYOW0UUhIXsYCG8DhBhPr6pNi2mx5PPu_zjij08YGoXISuPrg-83guIfN_24SAsQ0rt-gmyxSTFZpGe1-1cj-qvoyNlevVI6l8vnWM4sBRjsKLCxEpIDIg0V0Ud-DoF_I3PxzxW4YtCZcoc-MXa3MdQ/w320-h240/ml%20edit.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2023/01/a45.html">How To Quickly Raise Levels In Mobile Legend Games That You Must Master !! Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">How To Quickly Raise Levels In Mobile Legend Games That You Must Master !!&#160;Flipe by flipe.eu.org Flipe.eu.org - Corporation Websaite Build P...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-10T15:43:00+07:00">10 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/2489752676550096674" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a15.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "How to Use Find My Device - Flipe",
+  "description": "How to Use Find My Device - Flipe By flipe.eu.org Flipe  - You must have felt panicked when your cellphone or smartphone was lost. Actually this is a natural thing because in this day and age smartphones are very important objects for everyday life. But now you don\u0026#39;t need to worry and feel panic if your smartphone is lost. Have you ever heard of the Find My Device feature? What is Find My Device? This feature can help you easily and quickly track the whereabouts of your smartphone. The Find My Device feature functions to track and find the  position of a lost cell phone. This method is effectively implemented because the process and settings are quite easy, so that the owner can find the cellphone again in a short time, less than 10 minutes. Here\u0026#39;s how to track a cell phone using the Find My Device feature. How to Enable the Find My Device Feature To find out how to track a cell phone with this feature, you need to make sure of the following according to the instructions  quote",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNQ4HG2aFAPPgTaWLT79IP2jQqbWdB9eHCiuA9N6n7eMtE4hUY71nKqKmMJtMptzlMZ4Kr67aG6zT8E0ExwpsPK0_A745Acfy2WBjSYJCYSj9H3uaR-v1GIi6bMutmhSKncxTmOUcjLk6qUiz6wWGompf0055c_k62MLYB_9UhmTDAZy19zu-N-2Xww/w320-h240/caba%2029.jpg",
+  "datePublished": "2023-06-04T15:12:00+07:00",
+  "dateModified": "2023-07-12T05:44:00+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a15.html" rel="bookmark">
+<img alt="How to Use Find My Device - Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNQ4HG2aFAPPgTaWLT79IP2jQqbWdB9eHCiuA9N6n7eMtE4hUY71nKqKmMJtMptzlMZ4Kr67aG6zT8E0ExwpsPK0_A745Acfy2WBjSYJCYSj9H3uaR-v1GIi6bMutmhSKncxTmOUcjLk6qUiz6wWGompf0055c_k62MLYB_9UhmTDAZy19zu-N-2Xww/w320-h240/caba%2029.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a15.html">How to Use Find My Device - Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">How to Use Find My Device - Flipe By flipe.eu.org Flipe - You must have felt panicked when your cellphone or smartphone was lost. Actually ...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-04T15:12:00+07:00">4 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/4832946030819287730" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a12.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "A Good Laptop Choice For Work Flipe",
+  "description": "A Good Laptop Choice For Work&#160;Flipe By flipe.eu.org Flipe  - In this digital era, gadgets have become one of the items whose value needs are fairly important, especially smartphones and laptops. Ideally, smartphones can become more flexible because they are used for everyday needs. But laptops are no less important and become the main object to support our work. Especially now that almost everyone is using a laptop for work. Nowadays, laptops are a necessity for every worker. So it is very important to pay attention to the quality of existing laptops. So, here\u0026#39;s a selection of good laptops for work that you can buy. 1.Lenovo Ideapad 320-14IKB The first laptop series that has good quality is the Lenovo Ideapad 320-14IKB. With a screen size of 14 inches, this laptop has good graphics, namely the nVidia GT920 MX. This laptop is also suitable for use for various work matters  because it is  equipped with an Intel Core i5 7200U- 2.5 GHz processor. The product from the Lenovo Ideapad 320",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogg-gjttn19mETdFlfOhqc4DFs9JB1kVAfwQdt980hwnmBRUbWE40FFEVqlGYk0kFu_BlSRlvKvqHpPqIhStpjT9kEjoQxg_uySfOx1JncVgxCfmCTn0a_qQnEqAGm5zrLmltwqb3pq2e40qpf5g9G94F1GNTW2OMeSX8y9jgypO6PBe1ATsNuB-cTg/w320-h240/coba29.jpg",
+  "datePublished": "2023-06-04T15:06:00+07:00",
+  "dateModified": "2023-07-12T05:44:15+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a12.html" rel="bookmark">
+<img alt="A Good Laptop Choice For Work Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogg-gjttn19mETdFlfOhqc4DFs9JB1kVAfwQdt980hwnmBRUbWE40FFEVqlGYk0kFu_BlSRlvKvqHpPqIhStpjT9kEjoQxg_uySfOx1JncVgxCfmCTn0a_qQnEqAGm5zrLmltwqb3pq2e40qpf5g9G94F1GNTW2OMeSX8y9jgypO6PBe1ATsNuB-cTg/w320-h240/coba29.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a12.html">A Good Laptop Choice For Work Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">A Good Laptop Choice For Work&#160;Flipe By flipe.eu.org Flipe - In this digital era, gadgets have become one of the items whose value needs are...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-04T15:06:00+07:00">4 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/1227604358152335241" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a10.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "5 Software to Create Android Applications Flipe",
+  "description": "5 Software to Create Android Applications&#160;Flipe By flipe.eu.org Flipe &#160;Currently, application developers are competing to make the best applications to meet the needs of users. Especially for the Android operating system, there are still many untapped opportunities due to the large market share for Android users. Creating an application for a smartphone is not difficult. If you already have the basics of programming, you can try to make a  simple application . Android applications are currently in great demand. Then what software is needed to make this android application? Here\u0026#39;s the explanation! 1. Adobe Flash Builder Adobe Flash Builder is one of the software for creating Android applications. Many developers use this software to develop games and various other applications. If you want to operate Adobe Flash Builder, you must first understand the ActionScript language and the open source Flex framework. Adobe Flash Builder is available in two editions, namely standard and premiu",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-JM5HbL61ZT_5ROA9Ai2GsH8KxP_EWfSDduKpMXEQAzUEHyNpdw8C1a4RCIRJenW3xnyhlPn9-sNw35vq1V4Al0jEleP8gCgq_QH0hEVXJoJpIvZl40qebopjZxs5sm-JpPAAc6-0IdLbjdIaexKKkM6pGNol1hMS60xIR-uevjqWS1kvF0HB-bDpZw/w320-h240/COBA28.jpg",
+  "datePublished": "2023-06-04T14:57:00+07:00",
+  "dateModified": "2023-07-12T05:44:30+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a10.html" rel="bookmark">
+<img alt="5 Software to Create Android Applications Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-JM5HbL61ZT_5ROA9Ai2GsH8KxP_EWfSDduKpMXEQAzUEHyNpdw8C1a4RCIRJenW3xnyhlPn9-sNw35vq1V4Al0jEleP8gCgq_QH0hEVXJoJpIvZl40qebopjZxs5sm-JpPAAc6-0IdLbjdIaexKKkM6pGNol1hMS60xIR-uevjqWS1kvF0HB-bDpZw/w320-h240/COBA28.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a10.html">5 Software to Create Android Applications Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">5 Software to Create Android Applications&#160;Flipe By flipe.eu.org Flipe &#160;Currently, application developers are competing to make the best appl...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-04T14:57:00+07:00">4 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/1089952884707648353" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+<article class="item-post mb-4">
+<div class="h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.flipe.eu.org/2022/12/a9.html"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Atomfrok",
+    "url": "https://www.blogger.com/profile/13647233868972032732"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Flipe"
+  },
+  "headline": "How to Activate OK Google Flipe",
+  "description": "How to Activate OK Google&#160;Flipe By flipe.eu.org Flipe -  Google Assistant is one of the most advanced products ever made by Google. However, did you know that there are various Google Assistant functions that can make your work easier? This Google product, which was launched in May 2016, has been used on more than 1 billion devices, as written by Think with Google. Its presence was warmly welcomed by Google users. So, it\u0026#39;s no wonder that 500 million people are using Google Assistant by early 2020, as quoted from Business Insider. Google Assistant is an interesting product for Google users. The reason is, this one product can be connected with various other Google products, such as Gmail, Google Calendar, and Google Keep and many more. Google Assistant is perfect for those of you who often do multitasking. Imagine if you are being chased by a deadline but need to send an important message to your co-workers. Of course it would be troublesome, right? Well, you can use Google Assistan",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97L3oMYfrfr8h2K0MtiEvpn4BlA4U2N2rmC6NXLrZDWX2bf5TxbainOBkOluUrrgabzoFlO_hclVWsYCT_GSJwIrGaxktF__vga6TDs_QeX8bJlfy5m0aiC1-4IpnbU4TRti3wkUVAoI059aj9cWUcMQo6eILgpF3Vl1J7LXbtCv1-qVJPX2obRDO-Q/w320-h240/coba27.jpg",
+  "datePublished": "2023-06-04T14:47:00+07:00",
+  "dateModified": "2023-07-12T05:44:52+07:00"
+}
+</script>
+<div class="item-thumbnail">
+<a class="jt-bg-light d-block ratio ratio-16x9" href="https://www.flipe.eu.org/2022/12/a9.html" rel="bookmark">
+<img alt="How to Activate OK Google Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97L3oMYfrfr8h2K0MtiEvpn4BlA4U2N2rmC6NXLrZDWX2bf5TxbainOBkOluUrrgabzoFlO_hclVWsYCT_GSJwIrGaxktF__vga6TDs_QeX8bJlfy5m0aiC1-4IpnbU4TRti3wkUVAoI059aj9cWUcMQo6eILgpF3Vl1J7LXbtCv1-qVJPX2obRDO-Q/w320-h240/coba27.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content p-4">
+<div class="item-tag mb-2 fw-light text-secondary text-nowrap overflow-hidden text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-5 mb-3">
+<a class="text-reset" href="https://www.flipe.eu.org/2022/12/a9.html">How to Activate OK Google Flipe</a>
+</h3>
+<p class="item-snippet text-break mb-3">How to Activate OK Google&#160;Flipe By flipe.eu.org Flipe - Google Assistant is one of the most advanced products ever made by Google. However,...</p>
+<div class="item-meta text-secondary d-flex flex-wrap fw-light">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-user"></use></svg>Atomfrok</small>
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-04T14:47:00+07:00">4 Jun, 2023</span></small>
+</div>
+<span class="position-absolute top-0 end-0 blog-admin pid-1980662488">
+<a class="btn btn-sm jt-btn-light rounded-pill jt-icon-center" href="https://www.blogger.com/blog/post/edit/5150703973828246850/6725002032859307636" rel="nofollow noopener noreferrer" target="_blank" title="Edit post"><svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-edit"></use></svg></a>
+</span>
+</div>
+</div>
+</article>
+</div>
+<div class="d-flex justify-content-evenly visually-hidden" data-label data-pagination="true" data-posts="12" id="pagination">
+<div class="next-page">
+<a class="btn btn-sm jt-btn-primary border-2 py-2 px-4 fw-bold" href="https://www.flipe.eu.org/search?updated-max=2023-06-04T14:47:00%2B07:00&max-results=12">Next<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-arrow-r"></use></svg></a>
+</div>
+</div>
+</div>
+</div></div>
+<div class="pb-4 no-items section" id="after-blog">
+</div>
+</div>
+<div class="col-lg-4 px-3 pb-5 separator-main position-relative ms-auto" content="itemid" id="sidebar" itemid="#sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+<div class="pt-4 section" id="sidebar-static"><div class="widget PopularPosts position-relative mb-4" data-version="2" id="PopularPosts10">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>Popular Posts</span></h2>
+<div class="widget-content popular-posts">
+<div class="item-post d-flex mb-3">
+<div class="item-thumbnail me-3" style="width:85px">
+<a class="rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1" href="https://www.flipe.eu.org/2022/12/a7.html">
+<img alt="What is a Divestment and How Does It Effect Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKZurUWKoOl3H6qTJDtaLhP7VHIy_PlsHawTJP4xV7hPUwCMC-E8rx_KaekMDevegSN23klPEGZ75XMxP4PDeOFkoILCVm9ueDreQF3batksRbPWleezQNKRm6WXejHmYO-MtOVyf-VnQsAaX0xIiwYSzjTTWid2a_wYDw8iPLR52YhNDvVsPBCKxzw/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_04_56_51_GMT_07_00_2023_1686434211092.png" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content col overflow-hidden">
+<div class="item-tag mb-1 fw-light fs-8 text-secondary text-nowrap text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-7 mb-2"><a class="text-reset" href="https://www.flipe.eu.org/2022/12/a7.html">What is a Divestment and How Does It Effect Flipe</a></h3>
+<div class="item-meta text-secondary d-flex flex-wrap fs-8">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-11T05:00:00+07:00">10 Jun, 2023</span></small>
+</div>
+</div>
+</div>
+<div class="item-post d-flex mb-3">
+<div class="item-thumbnail me-3" style="width:85px">
+<a class="rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1" href="https://www.flipe.eu.org/2023/01/a50.html">
+<img alt="Here&#39;s How to Solve the Problem Effectively Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTk-Um0quvNUbfVnwsLRW7hafzD_GMnMgN8iVSw9oDfGcFWbyj0mh0hCuS3_rlTK5TvLKziCKf-QmbbvY5B2GcBf1ckUNsAZoloU-gnCNRlEmLzmVg05qlpOpKfOvErykHPBTeQT0N8W0K4YTPqyYUSjyrpjtw2ExAH8_yRh2FcRVdcMc24pvkoxv1w/w320-h320/Logo_Maker_com.ist.logomaker_Fri_Apr_28_06_01_53_GMT_07_00_2023_1682636513543.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content col overflow-hidden">
+<div class="item-tag mb-1 fw-light fs-8 text-secondary text-nowrap text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/HEALTHY?max-results=10" rel="tag">
+HEALTHY
+</a>
+</div>
+<h3 class="item-title fs-7 mb-2"><a class="text-reset" href="https://www.flipe.eu.org/2023/01/a50.html">Here's How to Solve the Problem Effectively Flipe</a></h3>
+<div class="item-meta text-secondary d-flex flex-wrap fs-8">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-25T21:29:00+07:00">25 Jun, 2023</span></small>
+</div>
+</div>
+</div>
+<div class="item-post d-flex mb-3">
+<div class="item-thumbnail me-3" style="width:85px">
+<a class="rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1" href="https://www.flipe.eu.org/2022/12/a16.html">
+<img alt="4 Banks in Indonesia Presenting Virtual Credit Cards Services Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYYNi_dRErqcdozzA6roNhn_G9CMyRi2XpMQFSRqop9sypxsx9Yo-nGmc6fUjPNAuIxIhhrPWutmB9qOdD4-AxtmojzCU8xwNebt_SCHkhnS5p36mb4iFzQy9cHYpKYkHsRJa_Er4Cejj2HnzlxNxsuLsk652X51GNfv9YmPiGPRuK026_4bXzKLxkfw/w320-h240/coba20.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content col overflow-hidden">
+<div class="item-tag mb-1 fw-light fs-8 text-secondary text-nowrap text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/HEALTHY?max-results=10" rel="tag">
+HEALTHY
+</a>
+,
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-7 mb-2"><a class="text-reset" href="https://www.flipe.eu.org/2022/12/a16.html">4 Banks in Indonesia Presenting Virtual Credit Cards Services Flipe</a></h3>
+<div class="item-meta text-secondary d-flex flex-wrap fs-8">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-02T10:08:00+07:00">2 Jun, 2023</span></small>
+</div>
+</div>
+</div>
+<div class="item-post d-flex mb-3">
+<div class="item-thumbnail me-3" style="width:85px">
+<a class="rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1" href="https://www.flipe.eu.org/2022/12/a1.html">
+<img alt="How to check the tiktok affiliate commission" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxodESziNkXJpjM1lPuIhzLoAZ3b6EtMNXRcw_7FGrU6l8ndTuWlNaRgnDhF1lCkDMTlCdokXaQK6MXnJJu52xM5tYv1qegcj4eb0-JkAh0eivKf9j6B_GkzYTB1Pi6CKtfpW7ft2Wui_ILqOqDzYi6XUp_fdtZizTX4SBr54qGAy3Gl6hMfNPV9J40w/w320-h240/Untitled-1.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content col overflow-hidden">
+<div class="item-tag mb-1 fw-light fs-8 text-secondary text-nowrap text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/BANK?max-results=10" rel="tag">
+BANK
+</a>
+,
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10" rel="tag">
+INVESTASI
+</a>
+</div>
+<h3 class="item-title fs-7 mb-2"><a class="text-reset" href="https://www.flipe.eu.org/2022/12/a1.html">How to check the tiktok affiliate commission</a></h3>
+<div class="item-meta text-secondary d-flex flex-wrap fs-8">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-12T09:45:00+07:00">12 Jun, 2023</span></small>
+</div>
+</div>
+</div>
+<div class="item-post d-flex mb-3">
+<div class="item-thumbnail me-3" style="width:85px">
+<a class="rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1" href="https://www.flipe.eu.org/2022/12/a19.html">
+<img alt="The Impact of Blue Light on Eye Health, How to Prevent It? Flipe" class="lazyload" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj95KhLhTI8fNST3vxzpL7JjFz9QYAYy6uSi1Cb2UKU9pvyjUxjdpyugwY2P88uWkKApXpNzbEasvOzqsyGs4Txw66sRDBGe_xJAKpS-8SZFi582pPP8ZAISWzzz3zhkaO6Qn-LmDF-xU8-nADTLUotFGyfvPgvTsl_rUOQoaECncrWrk8e6PUDrXNs-w/w320-h240/coba%2021.jpg" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</a>
+</div>
+<div class="item-content col overflow-hidden">
+<div class="item-tag mb-1 fw-light fs-8 text-secondary text-nowrap text-truncate">
+<a class="text-reset hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10" rel="tag">
+TECHNOLOGY
+</a>
+</div>
+<h3 class="item-title fs-7 mb-2"><a class="text-reset" href="https://www.flipe.eu.org/2022/12/a19.html">The Impact of Blue Light on Eye Health, How to Prevent It? Flipe</a></h3>
+<div class="item-meta text-secondary d-flex flex-wrap fs-8">
+<small class="me-2"><svg aria-hidden="true" class="me-1 jt-icon"><use xlink:href="#i-clock"></use></svg><span class="date-format" data-date="2023-06-02T10:14:00+07:00">2 Jun, 2023</span></small>
+</div>
+</div>
+</div>
+</div>
+</div><div class="widget Label position-relative mb-4" data-version="2" id="Label10">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>Categories</span></h2>
+<div class="widget-content categories">
+<ul class="list d-flex flex-wrap list-unstyled"><li class="mb-2 pe-2 col-6"><a class="text-reset fw-bold hover-text-primary" href="https://www.flipe.eu.org/search/label/BANK?max-results=10"><span class="align-middle">BANK</span><span class="ms-1 fw-light fs-9">[15]</span></a></li><li class="mb-2 pe-2 col-6"><a class="text-reset fw-bold hover-text-primary" href="https://www.flipe.eu.org/search/label/HEALTHY?max-results=10"><span class="align-middle">HEALTHY</span><span class="ms-1 fw-light fs-9">[19]</span></a></li><li class="mb-2 pe-2 col-6"><a class="text-reset fw-bold hover-text-primary" href="https://www.flipe.eu.org/search/label/INVESTASI?max-results=10"><span class="align-middle">INVESTASI</span><span class="ms-1 fw-light fs-9">[28]</span></a></li><li class="mb-2 pe-2 col-6"><a class="text-reset fw-bold hover-text-primary" href="https://www.flipe.eu.org/search/label/TECHNOLOGY?max-results=10"><span class="align-middle">TECHNOLOGY</span><span class="ms-1 fw-light fs-9">[14]</span></a></li></ul>
+</div>
+</div>
+</div>
+<div class="position-sticky py-4 top-0 no-items section" id="sidebar-sticky">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer content="itemid" id="footer" itemid="#footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+<div class="py-5 fs-7" id="footer-main">
+<div class="container px-3">
+<div class="row row-cols-sm-2 row-cols-lg-4 justify-content-evenly section" id="footer-widget"><div class="widget HTML position-relative mb-4" data-version="2" id="HTML21">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>About Us</span></h2>
+<div class="widget-content text-break"><p>Flipe.eu.org - Corporation Websaite Build Profesional, Beautiful &amp; Profesional Designs.Make an Impression and Reach Your Audience. Over 40+ Ready To Use Templates.</p></div>
+</div>
+<div class="widget LinkList position-relative mb-4" data-version="2" id="LinkList14">
+<h2 class="widget-title position-relative fs-6 mb-3"><span>Follow Us</span></h2>
+<div class="widget-content social-media mb-3">
+<a aria-label="telegram" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-telegram me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-telegram"></use></svg></a><a aria-label="tumblr" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-tumblr me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-tumblr"></use></svg></a><a aria-label="linkedin" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-linkedin me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-linkedin"></use></svg></a><a aria-label="pinterest" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-pinterest me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-pinterest"></use></svg></a><a aria-label="youtube" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-youtube me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-youtube"></use></svg></a><a aria-label="facebook" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-facebook me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-facebook"></use></svg></a><a aria-label="twitter" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-twitter me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-twitter"></use></svg></a><a aria-label="instagram" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-instagram me-2" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-instagram"></use></svg></a><a aria-label="github" class="mb-2 btn btn-sm jt-btn-light hover-btn-primary rounded-pill jt-icon-center i-github" href="#" rel="noopener" target="_blank">
+<svg aria-hidden="true" class="jt-icon"><use xlink:href="#i-github"></use></svg></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="py-3 fs-7 text-center" id="socket">
+<div class="container px-3 section" id="copyright"><div class="widget HTML" data-version="2" id="HTML23">
+<p class="mb-0">Copyright &copy; 2022 BlogName. Design by <a href="https://www.flipe.eu.org">flipe</a></p>
+</div></div>
+</div>
+</footer>
+<div class="position-fixed d-none" id="back-to-top" style="right:20px;bottom:20px"><a aria-label="Back to Top" class="btn btn-sm jt-btn-light rounded-circle jt-icon-center" href="#back-to-top" onclick="window.scroll({top:0,left: 0,behavior:&#39;smooth&#39;});"><svg aria-hidden="true" class="jt-icon" height="1em" width="1em"><use xlink:href="#i-arrow-t"></use></svg></a></div>
+<div class="d-none no-items section" id="jet-options">
+</div>
+<script>
+const siteUrl="http://www.flipe.eu.org/";
+const blogId="5150703973828246850";
+const blogTitle="Flipe";
+const titleSeparator=" - ";
+const autoTOC="true";
+const positionTOC="noscript";
+const isPreview="";
+const analyticId="UA-349563110-1";
+const caPubAdsense="ca-pub-2967291458224074";
+
+/*<![CDATA[*/
+/*@shinsenter/defer.js@2.5.0*/
+!function(r,i,t){var u,o=/^data-(.+)/,a='IntersectionObserver',c=/p/.test(i.readyState),s=[],f=s.slice,l='deferjs',n='load',e='pageshow',d='forEach',h='shift';function m(e){i.head.appendChild(e)}function v(e,n){f.call(e.attributes)[d](n)}function p(e,n,t,o){return o=(o=n?i.getElementById(n):o)||i.createElement(e),n&&(o.id=n),t&&(o.onload=t),o}function y(e,n){return f.call((n||i).querySelectorAll(e))}function b(t,e){y('source',t)[d](b),v(t,function(e,n){(n=o.exec(e.name))&&(t[n[1]]=e.value)}),e&&(t.className+=' '+e),n in t&&t[n]()}function I(e){u(function(o){o=y(e||'[type=deferjs]'),function e(n,t){(n=o[h]())&&(n.parentNode.removeChild(n),(t=p(n.nodeName)).text=n.text,v(n,function(e){'type'!=e.name&&t.setAttribute(e.name,e.value)}),t.src&&!t.hasAttribute('async')?(t.onload=t.onerror=e,m(t)):(m(t),e()))}()})}(u=function(e,n){c?t(e,n):s.push(e,n)}).all=I,u.js=function(n,t,e,o){u(function(e){(e=p('SCRIPT',t,o)).src=n,m(e)},e)},u.css=function(n,t,e,o){u(function(e){(e=p('LINK',t,o)).rel='stylesheet',e.href=n,m(e)},e)},u.dom=function(e,n,t,z,o,i){function c(e){o&&!1===o(e)||b(e,t)}u(function(t){t=a in r&&new r[a](function(e){e[d](function(e,n){e.isIntersecting&&(n=e.target)&&(z&&z(n),t.unobserve(n),c(n))})},i),y(e||'[data-src]')[d](function(e){l in e||(e[l]=1,t?t.observe(e):c(e))})},n)},u.reveal=b,r.Defer=u,r.addEventListener('on'+e in r?e:n,function(){for(I();s[0];t(s[h](),s[h]()))c=1})}(this,document,setTimeout);'IntersectionObserver'in window||document.write('<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"><\/script>');
+
+function related_temp(e) {
+  return (e.title ? "<div class='widget-title position-relative  mb-3 text-uppercase fw-light'><span>" + e.title + "</span></div>" : "") + "<div class='row row-cols-sm-2'>" + e.posts.map(function (data, i) {
+    return "<article class='mb-4'><div class='h-100 overflow-hidden rounded position-relative border jt-border-light bg-archive shadow-sm'>" + (data.img ? "<div class='item-thumbnail'><a class='jt-bg-light d-block ratio ratio-21x9' href='" + data.url + "'><img alt='" + data.title + "' class='object-cover lazy-" + data.grup_id + " lazyload' data-src='" + data.img + "' loading='lazy' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=='/></a></div>" : "") + "<div class='item-content p-4'><h2 class='item-title fs-6 mb-2' itemprop='headline'><a class='text-reset' href='" + data.url + "'>" + data.title + "</a></h2><div class='item-meta text-secondary d-flex flex-wrap fw-light'>" + (data.author != "Unknown" ? "<small class='me-2'><svg aria-hidden='true' class='me-1 jt-icon'><use xlink:href='#i-user'/></svg>" + data.author + "</small>" : "") + "<small class='me-2'><svg aria-hidden='true' class='me-1 jt-icon'><use xlink:href='#i-clock'/></svg>" + data.date + "</small></div></div></div></article>";
+  }).join("") + "</div>";
+}
+
+function sitemap_temp(e) {
+  return "<div class='accordion'>" + e.categories.map(function (data, i) {
+    return "<div class='accordion-item'><input " + (i == 0 ? "checked" : "") + " id='sitemap-list-" + i + "' name='sitemap' type='radio' class='d-none'/><label for='sitemap-list-" + i + "' class='accordion-header accordion-button collapsed'>" + data.term + "</label><div class='accordion-collapse collapse border-top jt-border-light d-block-check'><div class='accordion-body'><div class='sitemap-list' data-label='" + data.term + "' data-func='sitemap_list_temp' data-items='9999'><div class='text-center'><div class='spinner-grow text-light' role='status'><span class='visually-hidden'>Loading...</span></div></div></div></div></div></div>";
+  }).join("") + "</div>";
+}
+
+function sitemap_list_temp(e) {
+  return "<ul class='list-unstyled fs-7'>" + e.posts.map(function (data, i) {
+    return "<li class='mb-2'><a href='" + data.url + "'>" + data.title + "</a></li>";
+  }).join("") + "</ul>";
+}
+
+function sitemap_cb(e) {
+  var sm = ".sitemap-list";
+  if (document.querySelector(sm) !== null) {
+    Defer.dom(sm, 100, "loaded", jo.loadCustomPosts);
+  }
+}
+
+function related_inline_temp(e) {
+  return "<div class='px-3 py-2 mb-4 border border-3 jt-border-light rounded'>" + (e.title ? "<div class='fw-light pb-3'><span>" + e.title + "</span></div>" : "") + "<ul class='ps-3 fw-bold'>" + e.posts.map(function (data, i) {
+    return "<li class='mb-2'><a href='" + data.url + "'>" + data.title + "</a></li>";
+  }).join("") + "</ul></div>";
+}
+
+function sidebar_temp(e) {
+  return (e.title ? "<div class='widget-title position-relative fs-6 mb-3'><span>" + e.title + "</span></div>" : "") + "<div class='mb-4'>" + e.posts.map(function (data, i) {
+    return "<div class='item-post d-flex mb-3'>" + (data.img ? "<div class='item-thumbnail me-3' style='width:85px'><a class='rounded jt-bg-light overflow-hidden d-block ratio ratio-1x1' href='" + data.url + "'><img alt='" + data.title + "' class='object-cover lazy-" + data.grup_id + " lazyload' data-src='" + data.img + "' loading='lazy' src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=='/></a></div>" : "") + "<div class='item-content col'><h3 class='item-title fs-7 mb-2' itemprop='headline'><a class='text-reset' href='" + data.url + "'>" + data.title + "</a></h3><div class='item-meta text-secondary d-flex flex-wrap fs-8'><small class='me-2'><svg aria-hidden='true' class='me-1 jt-icon'><use xlink:href='#i-clock'/></svg>" + data.date + "</small></div></div></div>";
+  }).join("") + "</div>";
+}
+
+function toc_temp(e) {
+  var hc = 0;
+  var l = 1;
+  return "<div id='toc-post' class='d-inline-block px-3 py-2 mb-4 jt-bg-light rounded'><input id='toc-toggle' class='d-none' autocomplete='off' type='checkbox'/><label for='toc-toggle' class='toc-toggler d-flex align-items-center'><span class='fw-light pe-3'>Table of content</span><span class='dropdown-toggle ms-auto'></span></label>" + e.map(function (data, i) {
+    var n = data.level;
+    var text = "";
+    if (i == 0) {
+      text += '<ul class="ps-3 pt-3 d-none d-block-check fs-7">';
+    } else if (hc < n) {
+      text += '<ul class="ps-3 pt-2 fs-8"><li>';
+      l++;
+    } else if (hc > n && l > 1) {
+      for (var m = 0; m < hc - n; m++) {
+        text += "</li></ul>";
+      }
+      l--;
+    }
+    hc = n;
+    text += i > 0 ? "</li>" : "";
+    text += '<li class="mb-2">';
+    text += '<a class="text-reset hover-text-primary" href="#' + data.id + '">' + data.title + "</a>";
+    if (i == e.length - 1) {
+      for (var j = 1; j < hc; j++) {
+        text += "</li></ul>";
+      }
+    }
+    return text;
+  }).join("").replace(/<li>\s*<\/li>/gi, "") + "</div>";
+}
+
+function jtCallback(){
+/*Your Script is here to maintain performance.*/
+
+
+// the example below if you use url.
+// Defer.css('your_css_url','your-style-id',100);
+// Defer.js('your_script_url','your-script-id',100);
+
+
+}
+/*]]>*/</script>
+<script src="https://cdn.jsdelivr.net/gh/jettheme/js@0.5.5/main.js"></script>
+
+<textarea disabled readonly id="element-b" style="display:none"><style>/*
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3846609440-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4XEVo8SKIj_U4KEe2R0Adysc86Pw:1689856099221';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d5150703973828246850','//www.flipe.eu.org/','5150703973828246850');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '5150703973828246850', 'title': 'Flipe', 'url': 'http://www.flipe.eu.org/', 'canonicalUrl': 'http://www.flipe.eu.org/', 'homepageUrl': 'http://www.flipe.eu.org/', 'searchUrl': 'http://www.flipe.eu.org/search', 'canonicalHomepageUrl': 'http://www.flipe.eu.org/', 'blogspotFaviconUrl': 'http://www.flipe.eu.org/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-349563110-1', 'encoding': 'UTF-8', 'locale': 'en-GB', 'localeUnderscoreDelimited': 'en_gb', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': true, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Flipe - Atom\x22 href\x3d\x22http://www.flipe.eu.org/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Flipe - RSS\x22 href\x3d\x22http://www.flipe.eu.org/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Flipe - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/5150703973828246850/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/13647233868972032732\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-2967291458224074', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': true, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/c5f153b5e80637d3', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'blitzPostInterstitial': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en_GB\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Flipe', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard', 'ok': 'Ok', 'postLink': 'Post link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Flipe', 'description': '', 'url': 'http://www.flipe.eu.org/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': 'Logo', 'type': 'HTML', 'sectionId': 'header-main', 'id': 'HTML10'}, {'title': 'Menu', 'type': 'LinkList', 'sectionId': 'header-main', 'id': 'LinkList11'}, {'title': 'Featured Post', 'type': 'FeaturedPost', 'sectionId': 'before-blog', 'id': 'FeaturedPost1', 'postId': '8057028366623853265'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'blog-post', 'id': 'Blog1', 'posts': [{'id': '8057028366623853265', 'title': 'Scalping Strategy For Traders Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4umd9M-CnYN373N4HuMeRPNVBeIL_zLX9ZnxQm7_p7nsBkebJCQIyB6Xk61j8JlrEAShPGX0YGuCnCc6dD7PdjrZPvaxjr0Fgu9Zc93Q1PVcJULjHKajE6ewsoQ9IGU0mWVk-xSbsWBG2okuUTT6lJSxFHzb5EmAyQ2INk1U5ssBxcXJUZB8biAFVJQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Apr_30_05_40_00_GMT_07_00_2023_1682808000749.jpg', 'showInlineAds': false}, {'id': '727377412746441073', 'title': 'Here\x27s How to Solve the Problem Effectively Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTk-Um0quvNUbfVnwsLRW7hafzD_GMnMgN8iVSw9oDfGcFWbyj0mh0hCuS3_rlTK5TvLKziCKf-QmbbvY5B2GcBf1ckUNsAZoloU-gnCNRlEmLzmVg05qlpOpKfOvErykHPBTeQT0N8W0K4YTPqyYUSjyrpjtw2ExAH8_yRh2FcRVdcMc24pvkoxv1w/w320-h320/Logo_Maker_com.ist.logomaker_Fri_Apr_28_06_01_53_GMT_07_00_2023_1682636513543.jpg', 'showInlineAds': false}, {'id': '1000561046848476532', 'title': 'How to check the tiktok affiliate commission', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxodESziNkXJpjM1lPuIhzLoAZ3b6EtMNXRcw_7FGrU6l8ndTuWlNaRgnDhF1lCkDMTlCdokXaQK6MXnJJu52xM5tYv1qegcj4eb0-JkAh0eivKf9j6B_GkzYTB1Pi6CKtfpW7ft2Wui_ILqOqDzYi6XUp_fdtZizTX4SBr54qGAy3Gl6hMfNPV9J40w/w320-h240/Untitled-1.jpg', 'showInlineAds': false}, {'id': '7330622893248173943', 'title': 'What is the difference between investment and investment? Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS3FO6Iv-5BG3gJR__bjo2sg2NBU-AyTjxJJdU96TH28cB5I4C1uUR3ytOpcDPopGzFj2GxiNJV2wGnRMtkavoAVMaM2Edxe4NzgshOs5ukkWaaS-xL-Y1DgRZBCE-NB-j-Ww4yE65P3m6kEXruyFFEDkYDZY65YjZgb8zSHMrijl7jeQBZ-pvfQZtnQ/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_05_03_52_GMT_07_00_2023_1686434632779.png', 'showInlineAds': false}, {'id': '293367667579714722', 'title': 'What is a Divestment and How Does It Effect Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKZurUWKoOl3H6qTJDtaLhP7VHIy_PlsHawTJP4xV7hPUwCMC-E8rx_KaekMDevegSN23klPEGZ75XMxP4PDeOFkoILCVm9ueDreQF3batksRbPWleezQNKRm6WXejHmYO-MtOVyf-VnQsAaX0xIiwYSzjTTWid2a_wYDw8iPLR52YhNDvVsPBCKxzw/w320-h320/Logo_Maker_com.ist.logomaker_Sun_Jun_11_04_56_51_GMT_07_00_2023_1686434211092.png', 'showInlineAds': false}, {'id': '5333966517798672070', 'title': '7 Advantages of the iPhone XR Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpyAHCGNGZrJ9m-RtDHUN-uk4jYwH2xW3cfVGoBtN7I8lWTbj8xM_mFJnHgkPZ0I-mDHce_kTSMQZbk8jOeUJfTMPyrIj58XGmZ_w8-evsezsyOnnqS3FA6_S3VnwVvJW2pD9rk-NE1-7c8DlgAMQVFXZMCUiiO2BMmr3UNDD9YRB7JDMnLwEYWCVYbQ/w320-h240/1686433880579.jpg', 'showInlineAds': false}, {'id': '7608574037989253637', 'title': 'Samsung Integrates NFT Market into Smart TV Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1DsE1VrEyE9qKOrK37Mb609lXkSB1r-N9lssIlrud9-lCYMb3XGTZK8MfgkuzplwWeGK1W9FOGAesGOFS8udE73-bqzC4kQ-aY-OCqc1KZ3d06JqNQ1_zL4MbG6GwQFHpfZVTVmqkFDGFfvcT6GZ1Co_0uPTmfcV3isbGRdJE3I0PGlKJN_w5Xoi5vA/w320-h240/samsung.jpg', 'showInlineAds': false}, {'id': '2489752676550096674', 'title': 'How To Quickly Raise Levels In Mobile Legend Games That You Must Master !! Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwe4eFgs80sTACHgCcz4flRK8ucwocLprJvasEYOW0UUhIXsYCG8DhBhPr6pNi2mx5PPu_zjij08YGoXISuPrg-83guIfN_24SAsQ0rt-gmyxSTFZpGe1-1cj-qvoyNlevVI6l8vnWM4sBRjsKLCxEpIDIg0V0Ud-DoF_I3PxzxW4YtCZcoc-MXa3MdQ/w320-h240/ml%20edit.jpg', 'showInlineAds': false}, {'id': '4832946030819287730', 'title': 'How to Use Find My Device - Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNQ4HG2aFAPPgTaWLT79IP2jQqbWdB9eHCiuA9N6n7eMtE4hUY71nKqKmMJtMptzlMZ4Kr67aG6zT8E0ExwpsPK0_A745Acfy2WBjSYJCYSj9H3uaR-v1GIi6bMutmhSKncxTmOUcjLk6qUiz6wWGompf0055c_k62MLYB_9UhmTDAZy19zu-N-2Xww/w320-h240/caba%2029.jpg', 'showInlineAds': false}, {'id': '1227604358152335241', 'title': 'A Good Laptop Choice For Work Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogg-gjttn19mETdFlfOhqc4DFs9JB1kVAfwQdt980hwnmBRUbWE40FFEVqlGYk0kFu_BlSRlvKvqHpPqIhStpjT9kEjoQxg_uySfOx1JncVgxCfmCTn0a_qQnEqAGm5zrLmltwqb3pq2e40qpf5g9G94F1GNTW2OMeSX8y9jgypO6PBe1ATsNuB-cTg/w320-h240/coba29.jpg', 'showInlineAds': false}, {'id': '1089952884707648353', 'title': '5 Software to Create Android Applications Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-JM5HbL61ZT_5ROA9Ai2GsH8KxP_EWfSDduKpMXEQAzUEHyNpdw8C1a4RCIRJenW3xnyhlPn9-sNw35vq1V4Al0jEleP8gCgq_QH0hEVXJoJpIvZl40qebopjZxs5sm-JpPAAc6-0IdLbjdIaexKKkM6pGNol1hMS60xIR-uevjqWS1kvF0HB-bDpZw/w320-h240/COBA28.jpg', 'showInlineAds': false}, {'id': '6725002032859307636', 'title': 'How to Activate OK Google Flipe', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97L3oMYfrfr8h2K0MtiEvpn4BlA4U2N2rmC6NXLrZDWX2bf5TxbainOBkOluUrrgabzoFlO_hclVWsYCT_GSJwIrGaxktF__vga6TDs_QeX8bJlfy5m0aiC1-4IpnbU4TRti3wkUVAoI059aj9cWUcMQo6eILgpF3Vl1J7LXbtCv1-qVJPX2obRDO-Q/w320-h240/coba27.jpg', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': 'd MMM, yyyy'}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'share', 'label': ''}, {'name': 'comments', 'label': 'Comment'}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': 'Tags:'}]}], 'allBylineItems': [{'name': 'author', 'label': 'by'}, {'name': 'timestamp', 'label': 'd MMM, yyyy'}, {'name': 'share', 'label': ''}, {'name': 'comments', 'label': 'Comment'}, {'name': 'labels', 'label': 'Tags:'}]}, {'title': '#Advertisement', 'type': 'HTML', 'sectionId': 'ads-post', 'id': 'HTML13'}, {'title': '#Advertisement', 'type': 'HTML', 'sectionId': 'ads-post', 'id': 'HTML14'}, {'title': '#Advertisement', 'type': 'HTML', 'sectionId': 'ads-post', 'id': 'HTML16'}, {'title': '#Advertisement', 'type': 'HTML', 'sectionId': 'ads-post', 'id': 'HTML17'}, {'title': 'Popular Posts', 'type': 'PopularPosts', 'sectionId': 'sidebar-static', 'id': 'PopularPosts10', 'posts': [{'title': 'What is a Divestment and How Does It Effect Flipe', 'id': 293367667579714722}, {'title': 'Here\x27s How to Solve the Problem Effectively Flipe', 'id': 727377412746441073}, {'title': '4 Banks in Indonesia Presenting Virtual Credit Cards Services Flipe', 'id': 5387607062415883859}, {'title': 'How to check the tiktok affiliate commission', 'id': 1000561046848476532}, {'title': 'The Impact of Blue Light on Eye Health, How to Prevent It? Flipe', 'id': 6597942331264792735}]}, {'title': 'Categories', 'type': 'Label', 'sectionId': 'sidebar-static', 'id': 'Label10'}, {'title': 'About Us', 'type': 'HTML', 'sectionId': 'footer-widget', 'id': 'HTML21'}, {'title': 'Follow Us', 'type': 'LinkList', 'sectionId': 'footer-widget', 'id': 'LinkList14'}, {'title': 'Copyright', 'type': 'HTML', 'sectionId': 'copyright', 'id': 'HTML23'}]}]);
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'header-main', document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList11', 'header-main', document.getElementById('LinkList11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'before-blog', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'blog-post', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3110551280-lbx__en_gb.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'ads-post', document.getElementById('HTML13'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'ads-post', document.getElementById('HTML14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'ads-post', document.getElementById('HTML16'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML17', 'ads-post', document.getElementById('HTML17'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts10', 'sidebar-static', document.getElementById('PopularPosts10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label10', 'sidebar-static', document.getElementById('Label10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML21', 'footer-widget', document.getElementById('HTML21'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList14', 'footer-widget', document.getElementById('LinkList14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML23', 'copyright', document.getElementById('HTML23'), {}, 'displayModeFull'));
+</script>
+</body>*/</style></textarea><script>/*<![CDATA[*/const _eh=document.getElementById("element-h"),_eb=document.getElementById("element-b"),_WidgetManager={_PopupConfig:function(){}};null!==_eh&&(_eh.outerHTML=""),null!==_eb&&(_eb.outerHTML="");/*]]>*/</script>
+</body>
+</html>
